@@ -1,5 +1,5 @@
 # Snake
-Snake game written in Python
+🐍 Snake game written in Python 🐍
 
 The Snake game is a classic video game that has been enjoyed by millions of players around the world. It was originally created in the 1970s and has since been ported to numerous platforms.
 
